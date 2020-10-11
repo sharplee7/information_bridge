@@ -1,0 +1,401 @@
+1)	Which one of the following statements is true regarding the Increment?
+
+  Bookmark this question
+ 	A)		It must have all of the requirements that need to be in the product before the Product Owner will release it.	 	 
+ 	B)		Is not releasable until the Product Owner determines it is "Done".	 	 
+ 	C)		It must be in a useable condition and meet the definition of ¡°Done¡±.	o 	 
+ 	D)		Is not releasable until it has all of the features to be a Minimally Viable Product.
+
+2)	Which Scrum artifacts provide transparency and opportunities for inspection and adaptation?
+
+  Bookmark this question
+ 	A)		Burndown Charts, release plan and Product Backlog  x
+ 	B)		Sprint Backlog, Product Backlog and Increment	 	 
+ 	C)		Definition of Done and Product Backlog	 	 
+ 	D)		Definition of Done, Sprint Backlog and Product Backlog
+
+3)	Which role is responsible for ensuring Scrum is understood and enacted?
+
+  Bookmark this question
+ 	A)		Development Team	 	 
+ 	B)		Product Owner	 	 
+ 	C)		Scrum Master	 	 o
+ 	D)		Project Sponsor
+
+4)	Large Development Teams generate too much complexity for
+
+  Bookmark this question
+ 	A)		product requirements.	 	 
+ 	B)		project parameters.	 	 
+ 	C)		an empirical process.	o 	 
+ 	D)		estimated functions.
+
+5)	Which of the following is an activity of Product Backlog management?
+
+  Bookmark this question
+ 	A)		Clearly expressing Product Backlog items	 	 
+ 	B)		Creating Sprint tasks	 	 
+ 	C)		Facilitating the Daily Scrum	 	 
+ 	D)		Planning the Sprint Backlog  x
+
+
+6)	The Sprint Backlog belongs solely to the
+
+  Bookmark this question
+ 	A)		Scrum Master.	 	 
+ 	B)		Development Team.	 o
+ 	C)		Product Owner.	 	 
+ 	D)		Scrum Team.  
+
+7)	Who can order the items in the Product Backlog?
+
+  Bookmark this question
+ 	A)		Scrum Master	 	 
+ 	B)		Stakeholders	 	 
+ 	C)		Product Owner	 	 o
+ 	D)		Development Team
+
+8)	When Scrum Team members meet and collaborate with each other to find the best way to build and deliver the software to the customer, which of the following Agile Values is being practiced?
+
+  Bookmark this question
+ 	A)		Individuals and Interactions over Working Software	 	ox
+ 	B)		Individuals and Interactions over Processes and Tools	 	 
+ 	C)		Individuals and Interactions over Contract Negotiation	 	 
+ 	D)		Individuals and Interactions over Customer Collaboration
+
+9)	Who collaborates on understanding the work of the Sprint?
+
+  Bookmark this question
+ 	A)		The Scrum Team	 	 o
+ 	B)		The Scrum Master and the Development Team	 	 
+ 	C)		The Product Owner and the Development Team	 	 
+ 	D)		The Development Team
+
+10)	Which Agile principle is being practiced if a team chooses to focus on the highest priority Product Backlog items?
+
+  Bookmark this question
+ 	A)		Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.  x
+ 	B)		Simplicity - The art of maximizing the amount of work not done is essential.	 	 
+ 	C)		Business people and developers must work together daily throughout the project.	 	 
+ 	D)		The most efficient and effective method of conveying information to and within a development team is face-to-face conversation
+
+11)	What is the main role of the Product Owner?
+
+  Bookmark this question
+ 	A)		Describe the solution	 	 
+ 	B)		Manage the Development Team	 	 
+ 	C)		Clearly express and prioritize Product Backlog items	 	 p
+ 	D)		Recognize titles
+
+12)	What is the recommended range for Development Team size?
+
+  Bookmark this question
+ 	A)		3-5	 	 
+ 	B)		5-9	 	 
+ 	C)		3-9	 	 o
+ 	D)		5-11
+
+13)	What emerges from self-organizing teams?
+
+  Bookmark this question
+ 	A)		The best process flows, user stories and requirements	 	 
+ 	B)		The best architecture, requirements and designs	 	 
+ 	C)		The best designs, user stories and Sprint backlog	 	 
+ 	D)		The best architecture, user stories and requirements   x
+
+14)	What is an activity of the Product Owner?
+
+  Bookmark this question
+ 	A)		Ensuring the Charter is understood	 	 
+ 	B)		Experimenting with Sprint duration	 	 
+ 	C)		Maximizing the value of the Development Team's work	 	 o
+ 	D)		Managing the Development Team
+
+15)	Which of the Scrum values is most demonstrated when a Team completes a task before moving on to the next one?
+
+  Bookmark this question
+ 	A)		Commitment	 	 
+ 	B)		Focus	  o 	 
+ 	C)		Respect	 	 
+ 	D)		Courage
+
+16)	How often are Sprint Reviews conducted or held?
+
+  Bookmark this question
+ 	A)		Once at the end of every Sprint	 	 o
+ 	B)		One in the middle and one at the end of every Sprint	 	 
+ 	C)		Once at the beginning of the Sprint	 	 
+ 	D)		Daily
+
+17)	Which of the following are roles in the Scrum framework?
+
+  Bookmark this question
+ 	A)		Lead Developer	 	 
+ 	B)		Project Manager	 	 
+ 	C)		Product Owner	 	 o
+ 	D)		Business Analyst
+
+18)	Who makes the final decision on prioritizing the Product Backlog?
+
+  Bookmark this question
+ 	A)		Lead Developer	 	 
+ 	B)		Scrum Master	 	 
+ 	C)		Product Owner	 	 o
+ 	D)		Development Team
+
+19)	What is the most important characteristic of a "Done" increment?
+
+  Bookmark this question
+ 	A)		Prescriptive	 	 
+ 	B)		Estimable	 	 
+ 	C)		Usable	 	 o
+ 	D)		Released
+
+20)	A process framework used to manage work on complex products in complex environments is known as
+
+  Bookmark this question
+ 	A)		Kanban.	 	 
+ 	B)		Scrum.	 	 o
+ 	C)		Agile.	 	 
+ 	D)		Waterfall.
+
+21)	Which of the following is a required attribute of a Product Backlog item (PBI)?
+
+  Bookmark this question
+ 	A)		Assigned to	 	 
+ 	B)		Estimate	 	 o
+ 	C)		Due Date	 	 
+ 	D)		State
+
+22)	Software built and delivered in pieces is known as
+
+  Bookmark this question
+ 	A)		an iterative process.	 	 
+ 	B)		an incremental process.	 	 o
+ 	C)		a lifecycle process.	 	 
+ 	D)		a release process.
+
+23)	Daily Scrum is used to
+
+  Bookmark this question
+ 	A)		inspect and adapt work.	 	o 
+ 	B)		assign tasks.	 	 
+ 	C)		demo the changes to Stakeholders.	 	 
+ 	D)		estimate the pending work.
+
+24)	Which one is true for Sprint Planning?
+
+  Bookmark this question
+ 	A)		The work to be performed in the Sprint is planned	 o	 
+ 	B)		Demo of the previous increment is done	 	 
+ 	C)		Customers will share the feedback	 	 
+ 	D)		The Product Backlog is refined
+
+25)	The Development Team considers Sprint Retrospective isn't necessary. What should a Scrum Master do?
+
+  Bookmark this question
+ 	A)		Coach the development team to help them understand the purpose of Sprint Retrospective	 o	 
+ 	B)		Let the Development Team decide	 	 
+ 	C)		Escalate to the Product Owner	 	 
+ 	D)		Enforce Sprint Retrospective and make Development Team participate
+
+26)	A member of the Scrum Team does not want to participate in the Sprint Planning event and considers it a waste of time. What should the Scrum Master do first?
+
+  Bookmark this question
+ 	A)		Ask for management's assistance	 	 
+ 	B)		Mandate attendance	 	 
+ 	C)		Discuss the importance of team work	 	 
+ 	D)		Meet individually to address concerns  o
+
+27)	What is one service a Scrum Master provides to the Development Team?
+
+  Bookmark this question
+ 	A)		Prioritize the Sprint Backlog	 	 
+ 	B)		Develop a release plan	 	 
+ 	C)		Manage the Product Backlog	 	 
+ 	D)		Impediment removal   o
+
+28)	Which activity seeks to build consensus in a group setting?
+
+  Bookmark this question
+ 	A)		Coaching	 	 
+ 	B)		Teaching	 	 
+ 	C)		Mentoring	 	 
+ 	D)		Facilitating   o
+
+29)	A team member had an issue with no hardware to test the software. The Scrum Master contacted the hardware manager to help resolve the issue. What characteristic is the Scrum Master exhibiting?
+
+  Bookmark this question
+ 	A)		Disciplinarian	 	 
+ 	B)		Project Manager	 	 
+ 	C)		Authoritarian	 	 
+ 	D)		Servant-leader   o
+
+30)	How should Scrum teams plan work to be performed within Sprints?
+
+  Bookmark this question
+ 	A)		One release at a time, adjusting the number of Sprints to the prior releases' average velocity	 	 
+ 	B)		One Sprint at a time, adapting each Sprint Backlog according to what was learned from the last Sprint	o 	 
+ 	C)		One project at a time, adjusting each Sprint Backlog Item to meet the release date negotiated at inception	 	 
+ 	D)		One Sprint at a time in the Product Backlog Refinement meeting with participation of stakeholders
+
+31)	A developer identified a major technical issue during a Daily Scrum. What should the team do?
+
+  Bookmark this question
+ 	A)		Meet and discuss outside of Daily Scrum	 o	 
+ 	B)		Continue to discuss during the Daily Scrum	 	 
+ 	C)		Escalate it to the Product Owner	 	 
+ 	D)		Discuss it during the Sprint Review
+
+32)	In which event are impediments to the Sprint Goal shared?
+
+  Bookmark this question
+ 	A)		Daily Scrum	 	o 
+ 	B)		Sprint Planning	 	 
+ 	C)		Sprint Retrospective	 	 
+ 	D)		Sprint Review
+
+33)	Which of the following is a Scrum Artifact?
+
+  Bookmark this question
+ 	A)		Definition of "Done"	 	 
+ 	B)		Sprint Backlog	 	 o
+ 	C)		Sprint Goal	 	 
+ 	D)		Sprint Burndown Chart
+
+34)	Who can execute the work of the Sprint Backlog?
+
+  Bookmark this question
+ 	A)		Scrum Master	 	 
+ 	B)		Scrum Team	 	 
+ 	C)		Development Team	 o	 
+ 	D)		Product Owner
+
+35)	When a Scrum Master encounters resistance from outside of the Development Team, what should the Scrum Master do?
+
+  Bookmark this question
+ 	A)		Escalate to management to reprimand the resisters	 	 
+ 	B)		Not intervene in the business of others	 	 
+ 	C)		Create a status update meeting for all Scrum Masters to coordinate team dependencies	 	 
+ 	D)		Work with other Scrum Masters to increase the effectiveness of the application of Scrum in the organization   o
+
+36)	When the goal, scope and product domain are not understood by the Scrum Team, the Scrum Master should
+
+  Bookmark this question
+ 	A)		direct the Development Team to stop working until the Product Owner improves the acceptance criteria.	 	 
+ 	B)		cancel the sprint and schedule a new planning meeting.	 	 
+ 	C)		nothing because this is the responsibility of the Product Owner.	 	 
+ 	D)		facilitate a discussion between the Stakeholders, Product Owner and Development Team.   o
+
+37)	What is one prerogative of a Scrum Master?
+
+  Bookmark this question
+ 	A)		Set the budget	 	 
+ 	B)		Provide estimates	 	 
+ 	C)		Encourage the team to experiment with new ideas	 	o 
+ 	D)		Decide when to release the product
+
+
+38)	Who should the Scrum Master work with to determine if artifacts are completely transparent?
+
+  Bookmark this question
+ 	A)		End users	 	 
+ 	B)		Scrum Team and other involved parties	 	 o
+ 	C)		Management team	 	 
+ 	D)		Project Manager
+
+39)	A team with all the skills necessary to deliver a potentially releasable product is
+
+  Bookmark this question
+ 	A)		self-directed.	 	 
+ 	B)		distributed.	 	 
+ 	C)		cross-functional.	 	 o
+ 	D)		difficult to manage.
+
+40)	Whose responsibility is it to lead and coach the organization in its Scrum adoption?
+
+  Bookmark this question
+ 	A)		Customer	 	 
+ 	B)		Product Owner	 	 o
+ 	C)		Development Team	 	 
+ 	D)		Scrum Master
+
+41)	How does the Scrum Master help ensure the Development Team is working effectively?
+
+  Bookmark this question
+ 	A)		Plan Scrum implementations within the organization	 	 
+ 	B)		Facilitate Scrum events	 	 
+ 	C)		Report all user stories in management meetings	 	 
+ 	D)		Coach the Development Team in self-organization and cross-functionality   o
+
+42)	What is required when a Scrum Team says a Product Backlog item is ¡°Done¡±?
+
+  Bookmark this question
+ 	A)		The item has been developed and tested	 	 
+ 	B)		The item has been deployed to the production environment	 	 
+ 	C)		The item meets the Scrum Team¡¯s shared understanding of the definition of "Done"	 o 	 
+ 	D)		The item meets the definition of "Done" provided by the Product Owner
+
+43)	Product Backlog refinement should consume no more than what percent of the Development Team capacity?
+
+  Bookmark this question
+ 	A)		20%	 	 
+ 	B)		10%	 	 o
+ 	C)		30%	 	 
+ 	D)		40%
+
+44)	Development Team members asking for help or admitting not knowing something best demonstrates which Scrum Value?
+
+  Bookmark this question
+ 	A)		Openness	 	 
+ 	B)		Courage	 	 o
+ 	C)		Commitment	 	 
+ 	D)		Focus
+
+45)	What is the purpose of the Sprint Retrospective?
+
+  Bookmark this question
+ 	A)		Inspect how the last Sprint went with regards to people, relationships, process, and tools	  o	 
+ 	B)		Plan the incomplete work for the next Sprint and submit reasons to the Product Owner	 	 
+ 	C)		Explain what Backlog items have been ¡°Done¡± and what has not been ¡°Done¡±	 	 
+ 	D)		Identify Development Team members who did not perform well in the Sprint 
+
+46)	When is a Sprint Retrospective meeting held?
+
+  Bookmark this question
+ 	A)		After the Sprint Review and prior to the next Sprint Planning	 o	 
+ 	B)		At the beginning of the Sprint	 	 
+ 	C)		In the middle of the Sprint	 	 
+ 	D)		At the end of all the Sprints
+
+47)	What leadership style does the Scrum Master use for the Scrum Team?
+
+  Bookmark this question
+ 	A)		Directive leadership	 	 
+ 	B)		Strength-based leadership	 	 
+ 	C)		Situational leadership	 	 
+ 	D)		Servant leadership  o
+
+48)	During the Sprint, what Scrum Value must the team demonstrate to achieve the goal?
+
+  Bookmark this question
+ 	A)		Completion	 	 
+ 	B)		Commitment	o 	 
+ 	C)		Agreement	 	 
+ 	D)		Alignment
+
+49)	What is one service a Scrum Master provides to the Product Owner?
+
+  Bookmark this question
+ 	A)		Assign tasks to the Development Team members	 	 
+ 	B)		Write user stories	 	 
+ 	C)		Prioritize the backlog	 	 
+ 	D)		Find effective Product Backlog management techniques  o
+
+50)	What should the Scrum Master do if the Development Team complains that Daily Scrum is just a "status update" meeting?
+
+  Bookmark this question
+ 	A)		Explain that the intent of the Daily Scrum is to inspect progress towards sprint goal	  o	 
+ 	B)		Cancel the Daily Scrum and have status update meetings instead	 	 
+ 	C)		Reduce the occurrence for this meeting to once a week	 	 
+ 	D)		Make Daily Scrum an optional meeting for the Development Team to attend
